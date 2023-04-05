@@ -2,7 +2,7 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-
+<meta name="google-site-verification" content="EUKFSkgS2vov_RESlCH7iNM82pq-4Mw530hhqIGK2CY" />
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
